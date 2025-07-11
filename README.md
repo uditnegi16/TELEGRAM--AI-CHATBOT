@@ -8,7 +8,7 @@ This is a Python Telegram bot that integrates multiple features, including:
 
 ## 🎥 Video Demo
 
-🎬 [Click here to watch the 5-minute walkthrough on Loom]([3 Minute presentation](https://www.loom.com/share/1dc0d4c5eee34071bcbeab539155ef18?sid=3a6826b7-c1b4-4795-b45d-9a7870db0dd6)
+🎬 [Click here to watch the 5-minute walkthrough on Loom]([https://www.loom.com/share/YOUR_VIDEO_ID](https://www.loom.com/share/1dc0d4c5eee34071bcbeab539155ef18?sid=3a6826b7-c1b4-4795-b45d-9a7870db0dd6)
 
 ## Features
 1. **Image Analysis**: Upload an image (JPG, PNG) and the bot will send it to Gemini for content analysis.
