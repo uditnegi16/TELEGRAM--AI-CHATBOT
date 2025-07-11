@@ -5,6 +5,11 @@ This is a Python Telegram bot that integrates multiple features, including:
 - Image file processing with Gemini API
 - Web search and summarization using Google Custom Search and OpenAI API
 
+
+## 🎥 Video Demo
+
+🎬 [Click here to watch the 5-minute walkthrough on Loom](https://www.loom.com/share/1dc0d4c5eee34071bcbeab539155ef18?sid=3a6826b7-c1b4-4795-b45d-9a7870db0dd6)
+
 ## Features
 1. **Image Analysis**: Upload an image (JPG, PNG) and the bot will send it to Gemini for content analysis.
 2. **Document Processing**: Upload a PDF or DOCX file, and the bot will extract the text content and send it back. It also saves metadata to MongoDB.
